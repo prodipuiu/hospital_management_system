@@ -1,0 +1,11 @@
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale
+}
+html,
+body {
+  color: #444;
+  font: 400 14px/1.5 Montserrat, sans-serif;
+}
